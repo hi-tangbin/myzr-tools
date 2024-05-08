@@ -1,5 +1,14 @@
 # 工具
 
+* 仓库地址：[[Gitee]](https://gitee.com/myzr/myzr-tools)  [[GitHub]](https://github.com/hi-tangbin/myzr-tools.git)
+* 克隆仓库：
+
+```shell
+git clone https://gitee.com/myzr/myzr-tools.git
+# or
+git clone https://github.com/hi-tangbin/myzr-tools.git
+```
+
 ## Linux
 
 ### stress - 系统压力测试
